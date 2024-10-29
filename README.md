@@ -1,6 +1,6 @@
 # Project Title
 
-A basic portfolio website
+A basic portfolio website for my studio
 
 ## Installation
 
